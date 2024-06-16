@@ -1,0 +1,29 @@
+.container{
+    display: flex;
+}
+
+.azul{
+width: 200px;
+    height: 200px;
+    background-color: blue;
+    cursor:pointer;
+}
+.rojo {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    cursor: pointer;
+}
+
+.verde {
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    cursor: pointer;
+}
+.amarillo {
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+    cursor: pointer;
+}
